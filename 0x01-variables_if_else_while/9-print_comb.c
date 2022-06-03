@@ -11,7 +11,7 @@ for (number = 48; number <= 57; number++)
 {
 putchar(number); /*print  number*/
 /*if the value is 9 in format ASCII break the program*/
-if (number == 57;)
+if (number == 57)
 break;
 putchar(','); /*print (,)*/
 putchar (' '); /*print a space*/
