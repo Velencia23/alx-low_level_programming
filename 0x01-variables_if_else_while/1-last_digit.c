@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - Prints variables
+ * main - Entry point
  *
  * Return: 0
  */
