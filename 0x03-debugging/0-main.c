@@ -1,5 +1,4 @@
-cat main.c
-#include "main.c
+#include "main.h"
 /**
 * main - tests function that prints if integer is positive or negative
 * Return: 0
